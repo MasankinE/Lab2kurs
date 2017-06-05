@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\1\hashtables\hashtables\hashtable.h(141): warning C4715: 'HashTable::Print': not all control paths return a value
+  HashTables.vcxproj -> D:\1\HashTables\Debug\HashTables.exe
