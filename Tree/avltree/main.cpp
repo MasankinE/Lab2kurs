@@ -27,6 +27,9 @@ int main()
 	AVL.del(7);
 	AVL.print();
 
+	//dopzadanie
+	cout << "Vsego Elementov : "<< AVL.AVLHeight2() << endl;
+
 	system("pause");
 	return 0;
 }

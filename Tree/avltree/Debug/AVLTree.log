@@ -1,15 +1,15 @@
-﻿Build started 08.06.2017 12:39:13.
-     1>Project "G:\AVL\avltree\AVLTree.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 08.06.2017 16:12:10.
+     1>Project "C:\Users\123\Documents\GitHub\Lab2kurs\Tree\avltree\AVLTree.vcxproj" on node 2 (Build target(s)).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AVLTree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>g:\avl\avltree\tree.h(139): warning C4715: 'AVLTree::find' : not all control paths return a value
+     1>c:\users\123\documents\github\lab2kurs\tree\avltree\tree.h(139): warning C4715: 'AVLTree::find' : not all control paths return a value
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\AVL\Debug\lab3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\AVL\Debug\lab3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\AVL\Debug\lab3.lib" /MACHINE:X86 Debug\main.obj
-         AVLTree.vcxproj -> G:\AVL\Debug\lab3.exe
-     1>Done Building Project "G:\AVL\avltree\AVLTree.vcxproj" (Rebuild target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\123\Documents\GitHub\Lab2kurs\Tree\Debug\lab3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\123\Documents\GitHub\Lab2kurs\Tree\Debug\lab3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\123\Documents\GitHub\Lab2kurs\Tree\Debug\lab3.lib" /MACHINE:X86 Debug\main.obj
+         AVLTree.vcxproj -> C:\Users\123\Documents\GitHub\Lab2kurs\Tree\Debug\lab3.exe
+     1>Done Building Project "C:\Users\123\Documents\GitHub\Lab2kurs\Tree\avltree\AVLTree.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:19.76
+Time Elapsed 00:00:00.38
